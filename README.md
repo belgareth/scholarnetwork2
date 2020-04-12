@@ -4,6 +4,7 @@ Originaly Developed by Cheng-Jun Wang & Lingfei Wu
 Cheng-Jun Wang wangchj04@gmail.com Lingfei Wu wlf850927@gmail.com
 
 ##modified by belgareth
+It has also been ported for python 3
 
 Original instruction and repo via https://github.com/chengjun/scholarNetwork
 
